@@ -1,0 +1,17 @@
+.container h1 {
+  color: #FF0055;
+}
+
+.row h2 a {
+  color: #000099;
+}
+
+.page-header {
+    background-color: #ff9966;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.row {
+  border-bottom: 1px solid #ff9966;
+}
